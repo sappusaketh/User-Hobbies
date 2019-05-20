@@ -72,7 +72,7 @@ router.post(
 
 router.get('/allusers', async (req, res) => {
   try {
-    const users = await User.find();
+    const users = await User.find().sort({ _id: -1 });
     res.status(200).json(users);
   } catch (error) {
     console.log(error.message);
