@@ -1,5 +1,5 @@
 # User-Hobbies
-Website allow users to add hobbies and Profile picture, View all the users in the Database
+Website for users to add hobbies and Profile picture, View all the users in the Database
 
 # Technologies used
 <ul>
