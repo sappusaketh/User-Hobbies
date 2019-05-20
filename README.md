@@ -1,5 +1,8 @@
 # User-Hobbies
-Website for users to add hobbies and Profile picture, View all the users in the Database
+<ul>
+  <li>Website for users to add hobbies and Profile picture, View all the users in the Database</li>
+  <li> Adding a picture is completly user preference if a picture is added it will be displayed if not application will assign a picture</li>
+</ul>
 
 # Technologies used
 <ul>
