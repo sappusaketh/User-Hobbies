@@ -27,7 +27,7 @@ Application will run on port 3000 and 5000
 </ul>
 
 
-# How to change the Database connection URL 
+# How to Connect to your own Database
 To change the database url 
 1. Open model/db
 2. Modify url string to your DB connection URL
